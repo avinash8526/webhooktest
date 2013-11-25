@@ -2,10 +2,11 @@ webhooktest
 ===========
 
 Testing web hook
+Click on the image below
 
-[![Build Status](http://localhost:8080/buildStatus/icon?job=e-github)](http://localhost:8080/job/e-github/)
+[![Build Status](http://localhost:8080/buildStatus/icon?job=e-github)](http://localhost:8080/buildStatus/icon?job=e-github)
 
-<a href='http://localhost:8080/job/e-github/'><img src='http://localhost:8080/buildStatus/icon?job=e-github'></a>
+Click on the image below
 
 [![Build Status](http://172.16.1.31:8080/buildStatus/icon?job=e-github)](http://172.16.1.31:8080/buildStatus/icon?job=e-github)
 
